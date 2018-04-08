@@ -37,4 +37,4 @@ To train this network, specify the following parameters
 6. prep (default=False)
 7. seed (default=1)
    
-    python deepglobe.py 10 16 /data/deepglobe/road/train/ /data/deepglobe/road/valid/ out/
+`python deepglobe.py 10 16 /data/deepglobe/road/train/ /data/deepglobe/road/valid/ out/`
